@@ -1,5 +1,6 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
+import { SuiRatingModule, SuiSidebarModule } from 'ng2-semantic-ui';
 
 import { AppComponent } from './app.component';
 
@@ -8,7 +9,9 @@ import { AppComponent } from './app.component';
     AppComponent
   ],
   imports: [
-    BrowserModule
+    BrowserModule,
+    SuiRatingModule,
+    SuiSidebarModule,
   ],
   providers: [],
   bootstrap: [AppComponent]
