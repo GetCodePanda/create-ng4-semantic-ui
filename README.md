@@ -31,4 +31,4 @@
     ng2-semantic-ui [https://github.com/edcarroll/ng2-semantic-ui]
 
 ## Author :
-    Surendar [https://in.linkedin.com/in/surendar-dreamchaser-b12376b3]  works  as javascript developer at infinijith Technologies[http://infinijith.com/]
+Surendar [https://in.linkedin.com/in/surendar-dreamchaser-b12376b3]  works  as javascript developer at infinijith Technologies[http://infinijith.com/]
