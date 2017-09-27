@@ -32,5 +32,5 @@
   [create-new-cli](https://www.npmjs.com/package/create-new-cli)<br/>
 
 ## Author :
-[Surendar](https://in.linkedin.com/in/surendar-dreamchaser-b12376b3)  working  as a javascript developer
+[Surendar](https://www.youtube.com/channel/UCRlL4KoDH9GXaMWX3bbF4Kw)  working  as a javascript developer
 at [Infinijith-Technologies](http://infinijith.com/)
