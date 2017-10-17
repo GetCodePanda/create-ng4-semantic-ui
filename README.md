@@ -14,7 +14,7 @@
     
 ## Installation Process:
   Note : please install [Angular Cli](https://cli.angular.io/) version 1.4.2 globally .<br/>
-  npm i -g npm i [create-ng4-semantic-ui](https://www.npmjs.com/package/create-ng4-semantic-ui).<br/>
+  npm i -g [create-ng4-semantic-ui](https://www.npmjs.com/package/create-ng4-semantic-ui).<br/>
   then , create-ng4-semantic-ui <name-of-the-project-directory-name> (eg. create-ng4-semantic-ui ng-four-semanticui)<br/>
   cd ng-four-semanticui <br/>
   ng serve --open or --o (every angular cli commands will works )<br/>
